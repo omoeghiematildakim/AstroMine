@@ -11,3 +11,5 @@ U
 %contracts/space-data-integration.clar,3/5/35ae2002999a6e09830224f8960769281e447ecd
 O
 tests/mining-simulation.test.ts,2/5/25df27e1f12d19ebb029d9c3d02fb296b58e8854
+T
+$tests/space-data-integration.test.ts,1/7/17872ef087f41eeb98c0ec0afdcf4d54b102ba0d
